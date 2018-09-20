@@ -1,0 +1,40 @@
+**`Hey sexy mama. Wanna kill all humans?`**
+
+**`Useful stuff:`**
+
+**`!commands`**		- this list of commands
+**`!raidnotes`**	- the current raid strategy for the guild
+**`!raidstatus`**	- the current state of raids for the day
+**`!updateraidstatus`**	- update the raid open / closure status for the current day - OFFICERS ONLY!!!!!
+
+**`Guides:`**
+
+**`!commands`**		- this list of commands
+**`!lombardi`**		- link to lombardis guide
+**`!save`** 		- a list of units to save
+**`!petguide`** 	- a guide to pets
+**`!petcombos`** 	- a guide of units required to maximise pet skills
+**`!guildraid`**	- a guide on how to do guild raids
+**`!tot`** 		- a ToT guide
+**`!totcheatsheet`**	- a link to the ToT cheatsheet for solutions
+**`!buffmodes`**	- a link to a sheet detailing which buffs take effect in which modes
+**`!totcheatsheet`**	- a link to the ToT cheatsheet for solutions
+**`!artifactBuilds`**	- a link to artifact builds
+**`!moneyValue`**	- a link to a spreadsheet detailing real money value for shop packages
+**`!seals`**		- a link to an image showing the location of unit seals in Airships
+**`!medalcurve`**	- a link to a web page which shows the medal curve at each stage (i.e where KL gains slows vs speeds up)
+
+
+**`Speedruns:`**
+
+**`!myspeedrun`**	- the last speedrun you submitted to the bot
+**`!recordspeedrun`**	- record a new speedrun to the bot in the format Medals,ReviveStage,Time,Race e.g: 275c, 10000,33m,Elf
+**`!getspeedrun @USER'**- retrieve the last speedrun that user recorded
+
+
+**`Fun stuff:`**
+
+**`!youTheBest`**
+**`!towel`**
+**`!thanks`**
+**`!badbot`**

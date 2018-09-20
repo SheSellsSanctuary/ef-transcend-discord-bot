@@ -1,0 +1,12 @@
+{
+  "name": "Robot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Kyarre",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.2",
+    "winston": "^3.0.0"
+  }
+}

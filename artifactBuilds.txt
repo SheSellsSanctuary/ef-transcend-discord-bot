@@ -1,0 +1,5 @@
+This provides a rough overview of the artifact builds that are most useful for difference scenarios:
+
+__**Doc link**__
+
+https://docs.google.com/spreadsheets/d/17EdXkvzCgwsFmRekMTDCdF-S_4oSKsCEV3owkzcqoQQ/edit#gid=1931246058
